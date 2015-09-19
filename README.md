@@ -1,7 +1,7 @@
 # Underline-Sample
 How to draw an underline under "g"
 
-# H1 What's this
+# What's this
 
 ![Screenshot](https://raw.githubusercontent.com/ueda-keisuke/Underline-Sample/master/Underline-Sample/underline.png)
 

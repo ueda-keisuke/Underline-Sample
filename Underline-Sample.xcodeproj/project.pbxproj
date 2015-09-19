@@ -14,6 +14,7 @@
 		C6D128DB1BAD4C490045FF4B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6D128D91BAD4C490045FF4B /* LaunchScreen.storyboard */; };
 		C6D128E61BAD4C490045FF4B /* Underline_SampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D128E51BAD4C490045FF4B /* Underline_SampleTests.swift */; };
 		C6D128F11BAD4C490045FF4B /* Underline_SampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6D128F01BAD4C490045FF4B /* Underline_SampleUITests.swift */; };
+		C6D128FF1BAD67440045FF4B /* underline.png in Resources */ = {isa = PBXBuildFile; fileRef = C6D128FE1BAD67440045FF4B /* underline.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C6D128EC1BAD4C490045FF4B /* Underline-SampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Underline-SampleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C6D128F01BAD4C490045FF4B /* Underline_SampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Underline_SampleUITests.swift; sourceTree = "<group>"; };
 		C6D128F21BAD4C490045FF4B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C6D128FE1BAD67440045FF4B /* underline.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = underline.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		C6D128CF1BAD4C490045FF4B /* Underline-Sample */ = {
 			isa = PBXGroup;
 			children = (
+				C6D128FE1BAD67440045FF4B /* underline.png */,
 				C6D128D01BAD4C490045FF4B /* AppDelegate.swift */,
 				C6D128D21BAD4C490045FF4B /* ViewController.swift */,
 				C6D128D41BAD4C490045FF4B /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			files = (
 				C6D128DB1BAD4C490045FF4B /* LaunchScreen.storyboard in Resources */,
 				C6D128D81BAD4C490045FF4B /* Assets.xcassets in Resources */,
+				C6D128FF1BAD67440045FF4B /* underline.png in Resources */,
 				C6D128D61BAD4C490045FF4B /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

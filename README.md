@@ -7,4 +7,4 @@ How to draw an underline under "g"
 
 I found an underline under "g" is missing, so I tried to look for a font whose underline is not missing.
 
-This app displays all fonts your iOS device has with an underline. The left text is a normal underline. The right underline is drawn in UIWebView and CSS.
+This app displays all fonts your iOS device has with an underline. The left text is a normal underline. The right underline is drawn in UIWebView with CSS.
